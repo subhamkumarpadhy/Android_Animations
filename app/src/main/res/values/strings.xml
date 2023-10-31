@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="name">Subham Kumar Padhy</string>
+    <string name="move">Move</string>
+    <string name="alpha">Alpha</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+</resources>
